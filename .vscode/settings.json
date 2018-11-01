@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "eslint._legacyModuleResolve": true,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "prettier.eslintIntegration": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.rulers": [
+        80, 
+        120
+    ],
+    "editor.renderLineHighlight":"gutter",
+    "terminal.integrated.fontSize": 14,
+    "editor.tabSize": 2,
+}
